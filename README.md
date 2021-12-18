@@ -8,4 +8,4 @@ Edit and share to me if you want to help, its open source so do whatever idc
 also this is in godot engine
 
 
-also add all the files except project and theknightthingy to a blank project file
+also add all the files to a blank project file
